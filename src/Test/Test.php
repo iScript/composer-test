@@ -1,10 +1,7 @@
 <?php
 
-namespace Ykq\Test;
+namespace Test;
 
-/**
- * @property \Overtrue\Wechat\Utils\Bag $options
- */
 class Test
 {
     
