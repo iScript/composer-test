@@ -3,7 +3,7 @@
     "name" : "ykq",
     "description":"my test ",
     "license":"MIT",
-    "keywords:["php test"],
+    "keywords":["php test"],
     "version":"1.0.0",
     "authors":[
         {"name":"ykq",}
