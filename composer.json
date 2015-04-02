@@ -1,6 +1,6 @@
 {
 
-    "name" : "ykq",
+    "name" : "ykq/test",
     "description":"my test ",
     "license":"MIT",
     "keywords":["php test"],
