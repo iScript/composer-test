@@ -1,8 +1,8 @@
 <?php
 
-namespace Test;
+namespace Test\Core;
 
-class Test
+class ZZ
 {
     
     public function aa()

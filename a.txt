@@ -1,8 +1,0 @@
-"psr-4": {
-    "Test\\": "src/Test"
-}
-use Test\Test; 
-
-当试图自动加载 "Test\Test" 这个class时，会去寻找 "src/Test/Test.php"
-
-
