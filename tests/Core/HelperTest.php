@@ -8,5 +8,4 @@ class HelperTests extends TestCase{
         $h = new Helper();
         $this->assertEquals($h->printHello(),"hello world!");
     }
-
 }
